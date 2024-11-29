@@ -26,3 +26,6 @@ body {
     background-color: var(--cor-primaria-1);
     color: var(--cor-neutra-1);
 }
+html {
+    scroll-behavior: smooth ;
+}
