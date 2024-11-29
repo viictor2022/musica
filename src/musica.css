@@ -9,12 +9,12 @@ section {
 }
 .titulos_section{
     color: var(--cor-primaria);
-    font-size: ;1.5rem
+    font-size: 1.5rem;
 }
 .moldura-videos{
     display: flex;
-    flex-wrap: ;
-    justify-content: baseline;
+    flex-wrap: wrap ;
+    justify-content: center;
     padding: 0%;
     margin: 0%;
     list-style: ;
